@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # todoapp
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# To-Do-App
+Practice Task Flutter
+>>>>>>> edceb4839cc7537a3cd4d7356545939ac8d678b5
