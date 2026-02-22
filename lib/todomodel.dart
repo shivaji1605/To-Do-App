@@ -1,13 +1,13 @@
-class model{
+class ToDoModel{
   int id;
   String title;
-  String decscription;
+  String description;
   String date;
 
-  model({
-    required this.id,
+  ToDoModel({
+     this.id = 0,
     required this.title,
-    required this.decscription,
+    required this.description,
     required this.date,
   });
 
